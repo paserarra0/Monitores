@@ -1,8 +1,3 @@
-/************************************************************
-* Nombre: Pablo Serna Arrazola
-* Asignatura: Programación concurrente y distribuida.
-* Actividad Unidad 2: Semáforos + Monitores
-************************************************************/
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
